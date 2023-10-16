@@ -16,7 +16,7 @@ body{
     background-color: black;
 }
 
-.boardSquare{
+.board-square{
     width: 100px;
     height: 100px;
     background-color: white;
@@ -46,7 +46,6 @@ body{
     background-color: red;
     position: absolute;
 }
-
 
 .cross:before{
     left: 50%;
